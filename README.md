@@ -7,6 +7,6 @@ The resulting data was used to create a Tableau Public dashboard and  which can 
 
 Unfortunately, it's not very mobile friendly.
 
-It contains several pages of general analysis and some pages with filters allowing players to select themselves (or friends) to see their own data.
+It contains several pages of general analysis and some pages with filters allowing players to select themselves (or friends) to see their own data.  Tableau Public was very limiting (but also free) so several of the button and filter layouts cannot be changed much.
 
 Enjoy!
